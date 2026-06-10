@@ -22,6 +22,15 @@ This repository contains the projects completed as part of the CodeAlpha Artific
 - Deep Translator
 - gTTS
 
+## Task 3: Object Detection & Tracking
+
+- YOLOv8 Object Detection
+- Bounding Box Visualization
+- Object Counting
+- Confidence Scores
+- Detection Statistics
+- Streamlit-based Interface
+
 ## Author
 Neelima Kakulapati
 
